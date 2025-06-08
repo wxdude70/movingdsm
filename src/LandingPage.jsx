@@ -50,7 +50,7 @@ export default function LandingPage() {
           <p className="text-lg">Compare rates from trusted local movers</p>
         </header>
 
-        <main className="flex flex-col p-12 items-start justify-start space-y-10">
+        <main className="flex flex-col p-12 items-start justify-start space-y-10 max-w-screen-md mx-auto">
           <div className="max-w-xl w-full">
             <ul className="list-disc pl-5 text-base">
               <li>Pre-screened moving companies</li>
