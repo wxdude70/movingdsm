@@ -50,8 +50,8 @@ export default function LandingPage() {
           <p className="text-lg">Compare rates from trusted local movers</p>
         </header>
 
-        <main className="flex flex-col items-start justify-start p-8 gap-10">
-          <div className="max-w-md">
+        <main className="flex flex-col p-12 items-start justify-start space-y-10">
+          <div className="max-w-xl w-full">
             <ul className="list-disc pl-5 text-base">
               <li>Pre-screened moving companies</li>
               <li>No-obligation quotes</li>
@@ -62,7 +62,7 @@ export default function LandingPage() {
             </p>
           </div>
 
-          <div className="bg-gray-100 p-6 rounded-2xl shadow-md w-full max-w-md mt-6">
+          <div className="bg-gray-100 p-6 rounded-2xl shadow-md w-full max-w-xl">
             <h3 className="text-xl font-semibold mb-4">Request Your Quote</h3>
             <form
               className="space-y-4"
