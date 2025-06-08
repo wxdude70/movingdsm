@@ -65,7 +65,7 @@ export default function LandingPage() {
             <h3 className="text-xl font-semibold mb-4">Request Your Quote</h3>
             <form
               className="space-y-4"
-              action="https://formspree.io/f/xdoqzjvq"
+              action="https://formspree.io/f/moqzrbbz"
               method="POST"
             >
               <input className="w-full p-3 rounded border" name="name" placeholder="Full Name" required />
