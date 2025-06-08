@@ -44,8 +44,8 @@ export default function LandingPage() {
       </Helmet>
 
       <div className="min-h-screen bg-white text-gray-800 flex flex-col">
-        <header className="bg-blue-600 text-white p-6 shadow-lg flex items-center gap-4">
-          <img src="/logo.png" alt="Des Moines Moving Quotes logo" className="h-12 w-12 object-contain" />
+        <header className="bg-blue-600 text-white px-6 py-4 shadow-lg">
+          <img src="/logo.png" alt="Des Moines Moving Quotes logo" className="h-20 w-20 object-contain mb-4" />
           <h1 className="text-3xl font-bold">Get Free Moving Quotes in Des Moines</h1>
           <p className="text-lg">Compare rates from trusted local movers</p>
         </header>
